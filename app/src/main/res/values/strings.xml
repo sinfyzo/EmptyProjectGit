@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EmptyProject</string>
+    <string name="alert_no_internet">Seems like you are not connected to the internet. Please try again later</string>
+</resources>
