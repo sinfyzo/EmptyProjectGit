@@ -95,7 +95,6 @@ import static android.content.Context.INPUT_METHOD_SERVICE;
 import static android.provider.MediaStore.Files.FileColumns.MEDIA_TYPE_AUDIO;
 import static android.provider.MediaStore.Files.FileColumns.MEDIA_TYPE_IMAGE;
 import static android.provider.MediaStore.Files.FileColumns.MEDIA_TYPE_VIDEO;
-////////////
 public class Util implements WebUtil {
 
     public static Util util;
